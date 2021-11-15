@@ -1,0 +1,130 @@
+.html {
+    border: black solid 20px;
+    
+}
+
+.header{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: turquoise;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.logo {
+    text-align: center;
+    height: 10%;
+    width: 10%;
+}
+.kogo {
+    text-align: center;
+    height: 10%;
+    width: 10%;
+}
+.image {
+    text-align: center;
+    padding-bottom: 20px;
+}
+.imagetwo { 
+    text-align: center;
+    padding-bottom: 20px;
+}
+.one {
+    height: 10%;
+    width: 10%;
+    border-radius: 100px;
+    padding-left: 6px; 
+    padding-right: 6px;
+}
+.two {
+    height: 10%;
+    width: 10%;
+    border-radius: 100px;
+    padding-left: 6px; 
+    padding-right: 6px;
+}
+.three {
+    height: 10%;
+    width: 10%;
+    border-radius: 100px;
+    padding-left: 6px; 
+    padding-right: 6px; 
+}
+.four {
+    height: 10%;
+    width: 10%;
+    border-radius: 100px;
+    padding-left: 6px; 
+    padding-right: 6px; 
+}
+.five {
+    height: 10%;
+    width: 10%;
+    border-radius: 100px;
+    padding-left: 6px; 
+    padding-right: 6px;
+}
+.six {
+    height: 10%;
+    width: 10%;
+    border-radius: 100px;
+    padding-left: 6px; 
+    padding-right: 6px;
+}
+.seven {
+    height: 10%;
+    width: 10%;
+    border-radius: 100px;
+    padding-left: 6px; 
+    padding-right: 6px; 
+}
+.eight {
+    height: 10%;
+    width: 10%;
+    border-radius: 100px;
+    padding-left: 6px; 
+    padding-right: 6px;
+}
+.nine {
+    height: 10%;
+    width: 10%;
+    border-radius: 100px;
+    padding-left: 6px; 
+    padding-right: 6px; 
+}
+.ten {
+    height: 10%;
+    width: 10%;
+    border-radius: 100px;
+    padding-left: 6px; 
+    padding-right: 6px; 
+}
+.paraone {
+    text-align: center;
+    color: coral;
+    line-height: 10px;
+    padding-bottom: 20px;
+}
+.paratwo {
+    text-align: center;
+    color: darkgreen;
+    line-height: 10px;
+    padding-bottom: 20px;
+}
+.parathree {
+    text-align: center;
+    color: darkorchid;
+    line-height: 10px;
+    padding-bottom: 20px;
+}
+.parafour {
+    text-align: center;
+    color: darkred;
+    line-height: 10px;
+    padding-bottom: 20px;
+}
+.linkym {
+    text-align: center;
+    font-family: monospace;
+    font-size: 200%;
+    padding-bottom: 100px;
+    
+}
